@@ -30,7 +30,6 @@ public class Main {
             System.out.println("legion");
         }
 
-        out.println();
-        out.flush();
+        System.out.flush();
     }
 }
