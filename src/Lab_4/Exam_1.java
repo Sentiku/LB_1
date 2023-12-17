@@ -1,7 +1,5 @@
 package Lab_4;
 
-import com.sun.jdi.PathSearchingVirtualMachine;
-
 public class Exam_1 {
     public static void main(String[] args) {
         int figure = 11;
