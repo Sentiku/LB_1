@@ -30,9 +30,6 @@ public class Exam_8 {
                 System.out.println("Введите корректный ответ");
                 cool = false;
             }
-
-
         }
-
     }
 }
